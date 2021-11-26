@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyaiooiayk
 - 👀 I’m interested in Data Science, Optimisation, Programming and many more ....
-- 📫 How to reach me ...
+- 📫 How to reach me: kyaiooiayk@gmail.com
 
 <!---
 kyaiooiayk/kyaiooiayk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
