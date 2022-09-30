@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyaiooiayk
-- 👀 I’m interested in Data Science, Optimisation, Programming and many more ....
+- 👀 I’m interested in Data Science, Machine Learning, Optimisation, Programming and many more ....
 - 📫 How to reach me: kyaiooiayk@gmail.com
 - 👀 [My Github statistics](https://metrics.lecoq.io/about/kyaiooiayk)
 <!---
