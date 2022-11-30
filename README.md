@@ -3,7 +3,7 @@
 - 📫 How to reach me: kyaiooiayk@gmail.com
 - 👀 [My Github statistics](https://metrics.lecoq.io/about/kyaiooiayk)
 <p align="center"> 
-  Visitors count<br>
+  Visitors count since 30/11/2022<br>
   <img src="https://profile-counter.glitch.me/kyaiooiayk/count.svg"/>
 </p>
 
