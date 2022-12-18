@@ -2,12 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning, Optimisation, Programming and many more ....
 - 📫 How to reach me: kyaiooiayk@gmail.com
 - 👀 [My Github statistics](https://metrics.lecoq.io/about/kyaiooiayk)
-- ![](https://komarev.com/ghpvc/?username=kyaiooiayk)
-
-<p align="center"> 
-  Visitors count since 30/11/2022<br>
-  <img src="https://profile-counter.glitch.me/kyaiooiayk/count.svg"/>
-</p>
+- 👀 ![](https://komarev.com/ghpvc/?username=kyaiooiayk)
 
 <!---
 kyaiooiayk/kyaiooiayk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
