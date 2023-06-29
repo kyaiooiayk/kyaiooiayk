@@ -5,9 +5,17 @@
 - 👀 ![](https://komarev.com/ghpvc/?username=kyaiooiayk)
 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyaiooiayk&show_icons=true" alt="kyaiooiayk" /></p>>
+<p align="center">
+<a href="https://github.com/JPedroBraganca">
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyaiooiayk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyaiooiayk&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
+
+
+
 
 <!---
 kyaiooiayk/kyaiooiayk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
